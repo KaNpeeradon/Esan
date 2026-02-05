@@ -1,0 +1,60 @@
+class FoodData {
+  static Map<String, Map<String, dynamic>> foods = {
+    "เกี๊ยวซ่า": {
+      "lat": 18.28245402944867,
+      "lng": 99.4606367934604,
+      "price": 50,
+      "video": "assets/videos/gay.mp4",
+      "ingredients": ["แป้งเกี๊ยว", "ต้นหอม", "เนื้อ", "น้ำ"],
+      "steps": ["ห่อ", "ใส่ไส้", "ทอด"],
+    },
+    "ข้าวผัด": {
+      "lat": 18.284866265222128,
+      "lng": 99.51046085903782,
+      "price": 60,
+      "video": "assets/videos/kawpad.mp4",
+      "ingredients": ["ไข่ไก่", "ข้าวสวย"],
+      "steps": ["ผัด"],
+    },
+    "ต้มยำกุ้ง": {
+      "lat": 18.294318551502972,
+      "lng": 99.50883007125823,
+      "price": 80,
+      "video": "assets/videos/tomyam.mp4",
+      "ingredients": ["กุ้ง", "ตะไคร้"],
+      "steps": ["ต้ม", "ปรุงรส"],
+    },
+    "กะเพรา": {
+      "lat": 18.28572032668466,
+      "lng": 99.50033283121688,
+      "price": 55,
+      "video": "assets/videos/kapow.mp4",
+      "ingredients": ["กะเพรา", "หมูสับ"],
+      "steps": ["ผัด"],
+    },
+    "ไอติม": {
+      "lat": 18.293950731877274,
+      "lng": 99.50522517776366,
+      "price": 30,
+      "video": "assets/videos/ice.mp4",
+      "ingredients": ["นมข้นหวาน", "วิปปิ้งครีม"],
+      "steps": ["แช่เย็น"],
+    },
+    "ปังปิ้ง": {
+      "lat": 18.285311740443387,
+      "lng": 99.50496768331497,
+      "price": 25,
+      "video": "assets/videos/pan.mp4",
+      "ingredients": ["ขนมปัง", "นมข้น"],
+      "steps": ["ปิ้ง"],
+    },
+    "มาชเมลโล่": {
+      "lat": 13.751579804932964,
+      "lng": 100.53002802412945,
+      "price": 20,
+      "video": "assets/videos/mal.mp4",
+      "ingredients": ["มาชเมลโล่"],
+      "steps": ["เผา"],
+    },
+  };
+}

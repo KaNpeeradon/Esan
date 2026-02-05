@@ -1,0 +1,29 @@
+lib/firebase_options.dart{
+  "project_info": {
+    "project_number": "80519083743",
+    "project_id": "humtooshopapp",
+    "storage_bucket": "humtooshopapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80519083743:android:8e1e06c077b666cc7b1b6a",
+        "android_client_info": {
+          "package_name": "com.example.new_piyawat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSmh13X11Ctdy3n9x5sByG-PEeLdzqMF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
